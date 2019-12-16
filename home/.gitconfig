@@ -1,10 +1,7 @@
 # This is Git's per-user configuration file.
 [user]
         name = Niclas Fredriksson
-        email = nicce.f@gmail.com
-# Please adapt and uncomment the following lines:
-#       name = Niclas Fredriksson
-#       email = niclas.fredriksson@tretton37.com
+        email = niclas.fredriksson@tretton37.com
 
 [alias]
         co = checkout

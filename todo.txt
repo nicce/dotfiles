@@ -1,6 +1,0 @@
-* Install npm
-* Install openjdk-11
-* Install slack
-* Install visual-studio-code
-* Install spotify
-*
