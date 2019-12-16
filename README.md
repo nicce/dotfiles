@@ -21,5 +21,5 @@
 ## home
 Symlinks dotfiles to $HOME
 
-## home
+## configs 
 Custom hosts file from http://someonewhocares.org/hosts/
