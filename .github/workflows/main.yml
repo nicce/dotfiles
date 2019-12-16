@@ -9,5 +9,4 @@ jobs:
       - name: execute-test
         run: |
           id #DEBUG
-          chmod +x "$GITHUB_WORKSPACE"/install.sh
           "$GITHUB_WORKSPACE"/install.sh
