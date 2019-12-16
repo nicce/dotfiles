@@ -9,14 +9,15 @@
 
 ## scripts
 * Installs homebrew
-* Install oh-my-zsh
+* Installs oh-my-zsh
 * Brews
     * node
     * spotify
     * slack
     * docker
-    * java
     * visual-studio-code
+* Installs sdkman
+   * Installs and set default java 11.0.5.j9-adpt
 
 ## home
 Symlinks dotfiles to $HOME
