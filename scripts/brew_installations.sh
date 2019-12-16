@@ -5,6 +5,7 @@ brew update
 brew upgrade
 brew doctor
 
+brew install stow
 brew install node
 node --version
 
