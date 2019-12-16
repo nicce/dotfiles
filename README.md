@@ -5,7 +5,7 @@
 * The basis from this repo comes from https://github.com/erzz/dotfiles
 
 ## How to run
-`chmod +x install.sh && ./install.sh`
+`./install.sh`
 
 ## scripts
 * Installs homebrew
