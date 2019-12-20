@@ -18,6 +18,7 @@ brew cask install slack
 brew cask install visual-studio-code
 brew cask install iterm2
 brew cask install google-chrome
+brew cask install shiftit
 # docker will automaticlly be symlinked once started the first time
 brew cask install docker
 # Clean up

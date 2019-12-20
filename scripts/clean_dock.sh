@@ -15,3 +15,6 @@ dockutil --remove 'Podcasts'
 dockutil --remove 'TV'
 dockutil --remove 'App Store'
 dockutil --remove 'System Preferences'
+
+# Set dock inte `auto show/hide` mode
+defaults write com.apple.Dock autohide-delay -float 0.0001; killall Dock
