@@ -16,8 +16,11 @@
     * slack
     * docker
     * visual-studio-code
+    * iterm2
+    * Google Chrome
 * Installs sdkman
    * Installs and set default java 11.0.5.j9-adpt
+* Cleans dock from apps
 
 ## home
 Symlinks dotfiles to $HOME
