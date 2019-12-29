@@ -9,8 +9,10 @@ export ZSH="/Users/nicce/.oh-my-zsh"
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 ZSH_THEME="flazz"
 
-
+# Go ENV variables
 export GOPATH="${HOME}/projects"
+export GOBIN=$GOPATH/bin
+export PATH=$PATH:$GOBIN
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
