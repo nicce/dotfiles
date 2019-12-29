@@ -11,6 +11,9 @@ brew install dockutil
 brew install node
 node --version
 
+brew install go
+go version
+
 brew tap homebrew/cask-versions
 
 brew cask install spotify

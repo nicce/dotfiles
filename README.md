@@ -19,6 +19,7 @@
     * iterm2
     * Google Chrome
     * ShiftIt for easy window management
+    * Golang
 * Installs sdkman
    * Installs and set default java 11.0.5.j9-adpt
 * Cleans dock from apps
